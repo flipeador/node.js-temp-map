@@ -1,0 +1,26 @@
+{
+  "name": "@flipeador/node.js-temp-map",
+  "description": "Javascript Map with temporary elements and additional utility methods.",
+  "version": "1.0.0",
+  "keywords": [
+    "javascript",
+    "node-js",
+    "map",
+    "temporary",
+    "temp-map"
+  ],
+  "license": "gpl-3.0",
+  "main": "tempmap.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/flipeador/node.js-temp-map.git"
+  },
+  "author": "Flipeador (https://github.com/flipeador)",
+  "bugs": {
+    "url": "https://github.com/flipeador/node.js-temp-map/issues"
+  },
+  "homepage": "https://github.com/flipeador/node.js-temp-map#readme"
+}
