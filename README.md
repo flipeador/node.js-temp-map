@@ -2,8 +2,16 @@
 
 Javascript Map with temporary elements and additional utility methods.
 
+## Installation
+
+```bash
+npm install https://github.com/flipeador/node.js-temp-map
+```
+
+## Example
+
 ```js
-const TempMap = require('./tempmap.js');
+const TempMap = require('@flipeador/node.js-temp-map');
 
 const tmap = new TempMap();
 
@@ -21,3 +29,7 @@ console.log(tmap);
 ```bash
 TempMap(1) [Map] { 'foo' => 'never expires' }
 ```
+
+## License
+
+This project is licensed under the **GNU General Public License v3.0**. See the [license file](LICENSE) for details.
